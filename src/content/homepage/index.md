@@ -1,10 +1,10 @@
 ---
 banner:
-  title: "Building and Growing Calm Online Native Businesses 😌"
-  content: "From concept to revenue, GrowthToDo is your launchpad for online success. Join a vibrant community and transform your ideas into thriving digital businesses."
+  title: "Build and Grow Your Calm Online Native Business 😌"
+  content: "Join a Community of Builders Creating Profitable, Stress-Free Online Businesses. Learn, Grow, and Thrive – Without the Hustle."
   image: /images/banner-img.png
   button:
-    label: Download The Theme
+    label: Apply to Join
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: true
 
