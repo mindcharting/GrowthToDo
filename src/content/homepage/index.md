@@ -1,7 +1,7 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "Building and Growing Calm Online Native Businesses"
+  content: "From concept to revenue, GrowthToDo is your launchpad for online success. Join a vibrant community and transform your ideas into thriving digital businesses."
   image: /images/banner-img.png
   button:
     label: Download The Theme
