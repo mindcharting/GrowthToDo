@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Pinwheel Astro",
-    "base_url": "https://pinwheel-astro.vercel.app",
+    "title": "GrowthToDo",
+    "base_url": "https://growthtodo.com/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -19,9 +19,9 @@
 
   "call_to_action": {
     "title": "Helping teams in the world with focus",
-    "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "description": "Join a Community of Builders Creating Profitable, Stress-Free Online Businesses. Learn, Grow, and Thrive – Without the Hustle.",
     "button": {
-      "label": "Download The Theme",
+      "label": "Apply to Join",
       "link": "https://themefisher.com/astro-themes/pinwheel-astro"
     }
   },
