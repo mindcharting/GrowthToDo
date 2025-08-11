@@ -11,7 +11,7 @@ banner:
 ##key features
 key_features:
   title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  description: We’re founders ourselves. We’ve built bootstrapped and VC-backed companies, run agenices, grown teams in India and the US, raised capital, scaled revenue, and learned what really works (and what’s a distraction).
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
       title: Live Caption
