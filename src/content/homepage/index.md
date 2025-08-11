@@ -1,7 +1,7 @@
 ---
 banner:
-  title: "Build and Grow Your Calm Online Native Business 😌"
-  content: "Join a Community of Builders Creating Profitable, Stress-Free Online Businesses. Learn, Grow, and Thrive – Without the Hustle."
+  title: "Your startup doesn’t need another growth hack. It needs clarity"
+  content: "We help founders cut through the noise, focus on what matters, and turn clarity into a to-do list for building internet-first businesses that last"
   image: /images/banner-img.png
   button:
     label: Apply to Join
